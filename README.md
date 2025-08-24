@@ -1,7 +1,9 @@
 # 👋 Olá, eu sou o Augusto Souza!  
 
 💻 Desenvolvedor Back-end com foco em Java e Spring Boot.
+
 🚀 Apaixonado por criar soluções escaláveis, seguras e bem estruturadas.
+
 🎓 Cursando Ciência da Computação no IF Sul de Minas - Campus Muzambinho.
 
 ---
